@@ -1,11 +1,4 @@
 # Movie-seat-project
-Spring boot, Movie seat selection mechanism, Spring Data Jpa, Thymeleaf,
-
-just clone the repo
-$git clone url..
-
-open in eclipse or intellij
-
-Please update the repo and change Jpa configuration acording to your system before run
-And enjoy repo
+Spring boot, Movie seat selection mechanism, Spring Data Jpa,
+Implemented a backend system for a film ticket booking platform using Spring Boot and Spring Data JPA. The system enables users to register, log in, book seats for movies, manage booking history, and view movie details.
 
